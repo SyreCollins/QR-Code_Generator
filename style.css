@@ -12,7 +12,7 @@ body {
 	animation: gradient 15s ease infinite;
 }
 .wrapper {
-  max-width: 85%;
+  max-width: 90%;
   padding: 4em 4em;
   position: absolute;
   width: 31.25em;
@@ -26,6 +26,7 @@ body {
   backdrop-filter: blur(6.3px);
   -webkit-backdrop-filter: blur(6.3px);
   border: 1px solid rgba(227, 213, 235, 0.43);
+  margin-top: 30px;
 }
 .sen {
   text-align: center;
