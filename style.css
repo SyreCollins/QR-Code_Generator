@@ -160,6 +160,9 @@ select option {
   .options {
     flex-direction: column;
   }
+  .two {
+    display: flex;
+  }
   .down {
     padding-bottom: 12px;
   }
